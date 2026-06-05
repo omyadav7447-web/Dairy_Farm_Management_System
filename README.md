@@ -1,1 +1,3 @@
-# Dairy_Farm_Management_System
+Admin: 
+Username: om
+Password: om
